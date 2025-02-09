@@ -6,6 +6,7 @@
   - `chapter<n>.rpy`: 各章节内容
   - `screens.rpy`: 定义界面样式
   - `characters.rpy`: 人物图片
+  - `transform.rpy`: 预定义transform
   - `gui.rpy`: 定义GUI配置变量
   - `options.rpy`: 项目的一些配置
 - `images/`: 图片资源, 按照以下子目录分类存放

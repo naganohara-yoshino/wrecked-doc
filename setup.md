@@ -1,7 +1,7 @@
 # 开发工具和环境
 
 > [!IMPORTANT]
-> 这些步骤只需要几分钟即可完成，请不要跳过。跳过可能会导致花费更多时间解决问题。
+> 这些步骤只需要几分钟即可完成，请不要跳过。跳过可能会导致花费更多时间解决问题
 
 ## 准备文本编辑器
 
@@ -29,9 +29,9 @@
 
 ## 下载代码或Clone仓库
 
-进入[私有仓库](https://github.com/naganohara-yoshino/wrecked)(需要成为协作者), 点击Code(绿色按钮), 可以下载项目压缩包. 解压后移动至`项目目录`下, 即可用引擎启动游戏.
+进入[私有仓库](https://github.com/naganohara-yoshino/wrecked)(需要成为协作者), 点击Code(绿色按钮), 可以下载项目压缩包. 解压后移动至`项目目录`下, 即可用引擎启动游戏. (e.g. `my-projects/wrecked/`, `wrecked/`目录包含 `game/`, `README.md`等)
 
-也可用`git clone`, 相信`git`使用者已经轻车熟路, 故在此不再赘述. 
+也可用`git clone`. 相信`git`使用者已经轻车熟路, 故在此不再赘述. 
 
 
 
