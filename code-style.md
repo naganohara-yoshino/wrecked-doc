@@ -5,7 +5,6 @@
 
 ## 图片
 
-~ (需要铺满窗口的)图片的大小暂时是2400*2400*4000 ~~
 
 **立绘**图片名称包含人名缩写(两个字母)、季节缩写(`spr`，`sum`，`aut`，`win`)、人物表情, 并按`<name>_<season>_<facial expression>.<fmt>`的格式用下划线连接. 例如`cy_win_calm.png`, `ym_win_calm.png`.
 
