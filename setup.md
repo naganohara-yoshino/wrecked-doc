@@ -29,7 +29,7 @@
 
 ## 下载代码或Clone仓库
 
-进入[私有仓库](https://github.com/naganohara-yoshino/wrecked), 点击Code(绿色按钮), 可以下载项目压缩包. 解压后移动至`项目目录`下, 即可用引擎启动游戏.
+进入[私有仓库](https://github.com/naganohara-yoshino/wrecked)(需要成为协作者), 点击Code(绿色按钮), 可以下载项目压缩包. 解压后移动至`项目目录`下, 即可用引擎启动游戏.
 
 也可用`git clone`, 相信`git`使用者已经轻车熟路, 故在此不再赘述. 
 
