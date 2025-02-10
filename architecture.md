@@ -2,7 +2,7 @@
 
 游戏主目录 位于`game/` 目录下.
 - `scripts/` 包含脚本文件
-  - `main.rpy`: 定义主要人物、开场和游戏大体结构, 包含`label start:`, 是游戏入口
+  - `main.rpy`: 开场和游戏大体结构, 包含`label start:`, 是游戏入口
   - `chapter<n>.rpy`: 各章节内容
   - `screens.rpy`: 定义界面样式
   - `characters.rpy`: 人物图片
