@@ -21,7 +21,7 @@
 
 用于加载, 构建游戏
 
-在RenPy官网[下载页](https://www.renpy.org/latest.html)下载最新版本安装包. 
+在RenPy官网[下载页](https://www.renpy.org/release/8.4.1)下载8.4.1安装包. 
 
 待其解压至目标目录后, 打开其中的`renpy.exe`即可运行.
 
